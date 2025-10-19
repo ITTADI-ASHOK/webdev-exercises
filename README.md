@@ -1,2 +1,2 @@
 # webdev-exercises
-My daily web development exercises and practice tasks
+My daily web development exercise and project practise  tasks
